@@ -98,3 +98,23 @@
   background: #00a651;
   padding: 14px 22px;
 }
+.cards {
+  background-color: #000000cf, #48484800, #9e9e9e00, #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+.card {
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.15);
+  padding: 30px;
+}
+.section2 {
+  padding: 20px;
+}
+.section2 h1 {
+  display: flex;
+  justify-content: center;
+}

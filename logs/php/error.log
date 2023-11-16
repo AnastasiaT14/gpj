@@ -18,3 +18,7 @@
 [16-Nov-2023 21:06:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 5
 [16-Nov-2023 21:06:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 5
 [16-Nov-2023 21:09:28 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9
+[16-Nov-2023 21:39:45 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/vector.svg?>" a..." in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
+[16-Nov-2023 21:40:46 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
+[16-Nov-2023 21:40:47 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
+[16-Nov-2023 21:40:47 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
