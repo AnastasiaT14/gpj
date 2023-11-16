@@ -15,3 +15,6 @@
 [16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
 [16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
 [16-Nov-2023 16:09:32 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\header.php on line 35
+[16-Nov-2023 21:06:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 5
+[16-Nov-2023 21:06:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 5
+[16-Nov-2023 21:09:28 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9

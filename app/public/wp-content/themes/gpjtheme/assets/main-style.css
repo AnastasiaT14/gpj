@@ -1,10 +1,18 @@
 .site-header {
-  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+  z-index: 99;
 }
 .container {
   width: 100%;
   padding: 0 10px;
   margin: 0 auto;
+}
+.portfolio-header.logged-in {
+  top: 32px;
 }
 
 .header-content {
@@ -36,4 +44,57 @@
 .header-menu.nav-menu a:hover {
   font-size: 25px;
   delay: 1s;
+}
+.section1 {
+  height: 100vh;
+  position: relative;
+}
+.section1 > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.hero-content h1 {
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans" sans-serif;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 57px;
+}
+.hero-content p {
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans" sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 50px;
+}
+.hero-content button a {
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans" sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+}
+.button {
+  border-radius: 10px;
+  background: #00a651;
+  padding: 14px 22px;
 }

@@ -28,7 +28,7 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'gpjtheme' ); ?></a>
 
-	<header id="masthead" class="site-header gpj-header>
+	<header id="masthead" class="site-header gpj-header <?php echo is_user_logged_in() ? 'logged-in' : '|' ?>">
 
 				<div class="container">
 					<div class="header-content">
