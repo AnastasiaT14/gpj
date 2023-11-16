@@ -1,0 +1,39 @@
+.site-header {
+  background-color: black;
+}
+.container {
+  width: 100%;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 100px;
+}
+.main-navigation.gpj-navigation {
+  width: auto;
+}
+.header-menu.nav-menu {
+  display: flex;
+  gap: 50px;
+}
+.img {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.header-menu.nav-menu a {
+  color: #fff;
+  font-family: "Open Sans" sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.header-menu.nav-menu a:hover {
+  font-size: 25px;
+  delay: 1s;
+}

@@ -1,0 +1,17 @@
+[16-Nov-2023 15:49:01 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 15:49:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\gpj\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[16-Nov-2023 15:49:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\gpj\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[16-Nov-2023 15:51:02 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 15:53:03 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:03 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:06 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:06 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:08 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:08 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:14 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:14 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:04:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ", ", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\functions.php on line 53
+[16-Nov-2023 16:09:32 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\header.php on line 35
