@@ -22,3 +22,11 @@
 [16-Nov-2023 21:40:46 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
 [16-Nov-2023 21:40:47 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
 [16-Nov-2023 21:40:47 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 29
+[17-Nov-2023 12:55:10 UTC] PHP Parse error:  syntax error, unexpected identifier "get_header" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9
+[17-Nov-2023 13:00:32 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 8
+[17-Nov-2023 13:11:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9
+[17-Nov-2023 13:11:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 10
+[17-Nov-2023 13:11:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9
+[17-Nov-2023 13:11:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 10
+[17-Nov-2023 13:12:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 9
+[17-Nov-2023 13:12:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\gpj\app\public\wp-content\themes\gpjtheme\front-page.php on line 10

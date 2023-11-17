@@ -5,7 +5,12 @@
  $hero_description = $first_section [ 'hero_description']; 
  $button = $first_section['button'];
  
+// $services = get_field('services');
 
+// echo '<pre>';
+// echo 'Section2 Array: ';
+// var_dump($services); // Use var_dump for more detailed output
+// echo '</pre>';
 get_header();
 ?>
 <main>
@@ -44,6 +49,7 @@ get_header();
                     </div>             
         </div>
     </section>
+  
 </main>
 
 <!-- <?php
